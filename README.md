@@ -1,4 +1,4 @@
-# Theme Park Map Builder - Group Project
+# [Theme Park Map Builder - Group Project](https://beelarr.github.io/d21-group-theme-park-hogwarts/)
 
 As a team you will create a interactive map of a theme park. The park will include 8 areas with different attractions and events.
 
@@ -25,3 +25,5 @@ As a team you will create a interactive map of a theme park. The park will inclu
 * Handlebars
 * Grid framework of your choice
 * Firebase for data storage and retrieval
+
+### [Check it out here!!](https://beelarr.github.io/d21-group-theme-park-hogwarts/)
